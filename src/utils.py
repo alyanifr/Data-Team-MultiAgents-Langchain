@@ -152,8 +152,9 @@ crew = Crew(
     agents=[sql_dev, data_analyst, report_editor],
     tasks=[extract_data, analyze_data, write_report],
     process=Process.sequential,
-    verbose=True,
-    memory=True,
+    verbose=2,
     output_log_file="crew.log",
 )
 
+### Add dataviz agent
+### Add RAQ framework for summarization of the dataset

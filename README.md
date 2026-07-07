@@ -1,6 +1,6 @@
-<h1 align="center">AI-Powered Data Team</h1>
+<h1 align="center">Multi-Agents Data Team for Automated SQL Query</h1>
 
-<h5 align="center">Keywords: Large Language Model | Google Generative AI | Multi-Agents Langchain | CrewAI</h5>
+<h5 align="center">Keywords: Large Language Model | Google Generative AI | SQLite Database| CrewAI</h5>
 
 ## Project Description:
 
